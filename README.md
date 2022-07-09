@@ -30,6 +30,9 @@ Réalisez une veille technologique
 
 * Dans le monde digital, les technologies évoluent à vitesse grand V. C’est pour cette raison qu’il est important de suivre ce qu’il se passe dans le monde du développement. Cette veille sera également très utile pour connaître les compétences recherchées par les recruteurs.
 
+Réaliser une veille informationnelle
+==
+
 * Pour réaliser votre veille, vous devrez choisir au moins 4 sources d’information de différentes natures pour vous tenir informé (influenceurs, newsletters, alertes Google, revues, réseaux sociaux, événements...).
 
 * Réunissez-les dans un tableau de bord que vous pourrez suivre régulièrement ! Vous devrez pouvoir éditer ce tableau et retrouver les informations stockées à l’intérieur.
